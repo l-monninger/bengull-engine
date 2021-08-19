@@ -1,2 +1,2 @@
 # bengull-engine
-The engine for Bengull.
+The engine for Bengull. Whitepaper forthcoming...
